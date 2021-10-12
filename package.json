@@ -1,6 +1,6 @@
 {
     "name": "hyper-shellect2",
-    "version": "0.3.8",
+    "version": "0.4.1",
     "private": false,
     "description": "cross-platform shell selection for hyper",
     "repository": {
